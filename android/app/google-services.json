@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "494319823289",
+    "firebase_url": "https://stackoverflow-demos.firebaseio.com",
+    "project_id": "stackoverflow-demos",
+    "storage_bucket": "stackoverflow-demos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494319823289:android:8eccc7dcb46fa9bc8aae68",
+        "android_client_info": {
+          "package_name": "com.example.auth_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494319823289-8duf6a7ehd265a1pedhr04lfoigaa1hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPhJkt5qHBEtgrnaDyPaWYuh8npkfxJAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494319823289-8duf6a7ehd265a1pedhr04lfoigaa1hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
