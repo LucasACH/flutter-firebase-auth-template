@@ -1,4 +1,4 @@
-# auth_demo
+# Firebase Authentication Template | Flutter
 
 A new Flutter project.
 
