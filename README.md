@@ -2,8 +2,6 @@
 
 A Firebase Authentication template for flutter apps. 
 
-![alt text](https://github.com/LucasACH/flutter-firebase-auth-template/blob/main/demo_gif.mp4?raw=true)
-
 ## Content
  - Sign in
  - Sign out
